@@ -1,1 +1,3 @@
-# weather-dash
+# Weather Dashboard
+The purpose of this weather dashboard is to use the OpenWeather One Call API to retrieve weather data for cities. When users search for a city, the current and future conditions of that city are displayed and the city is added in the search history. Users can see the city name, date, icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index. When users view the UV index, a color is displayed that indicates whether it is favorable, moderate, or severe. Users can view a five-day forecast that shows the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity. Users can click on a city in the search history and the current and future conditions of that city will be displayed.
+
